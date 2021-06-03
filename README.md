@@ -11,4 +11,4 @@ pip install -r requirements.txt
 ```
 3. SMPL model download
 
-pkl 형태의 SMPL 모델을 다운받아 실행합니다.
+ NIA2020VisProject/smplpytorch/native/models/ 디렉토리에 pkl 형태의 SMPL 모델을 다운받아 실행합니다.
