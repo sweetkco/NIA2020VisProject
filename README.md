@@ -9,6 +9,8 @@ git clone https://github.com/sweetkco/NIA2020AnnotationTools.git
 ```
 pip install -r requirements.txt
 ```
-3. SMPL model download
-
- NIA2020VisProject/smplpytorch/native/models/ 디렉토리에 pkl 형태의 SMPL 모델을 다운받아 실행합니다.
+3. SMPL model 다운로드
+* basicModel_f_lbs_10_207_0_v1.0.0.pkl : https://smpl.is.tue.mpg.de/
+* basicModel_m_lbs_10_207_0_v1.0.0.pkl : https://smpl.is.tue.mpg.de/
+* basicModel_neutral_lbs_10_207_0_v1.0.0.pkl : http://smplify.is.tue.mpg.de/
+* NIA2020VisProject/smplpytorch/native/models/ 디렉토리에 pkl 형태의 SMPL 모델을 다운받아 실행합니다.
