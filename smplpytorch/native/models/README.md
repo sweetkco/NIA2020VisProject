@@ -1,1 +1,1 @@
-Here copy the .pkl model files.
+Here copy the SMPL model(.pkl) files.
