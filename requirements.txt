@@ -1,0 +1,10 @@
+matplotlib
+mybatis-mapper2sql
+numpy
+opencv-python
+PyMySQL
+torch
+torchvision
+tqdm
+trimesh
+chumpy
